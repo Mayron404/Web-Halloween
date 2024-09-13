@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HALLOWEEN</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+
+    <nav>
+        <label class="logo">HALLOWEEN</label>
+        <ul>
+            <li> <a class="active" @Html.ActionLink("Inicio", "index", "Home")</a></li>
+            <li> <a @Html.ActionLink("Próximos Estrenos", "index_Proximos_Estrenos", "Proximos_Estrenos")</a></li>
+            <li> <a @Html.ActionLink("Mantenimiento Clientes", "Index", "Clientes")</a></li>
+            <li> <a @Html.ActionLink("Login", "index", "Login")</a></li>
+            <li> <a @Html.ActionLink("About Us", "index_AboutUs", "AboutUs")</a></li>
+            <li> <a @Html.ActionLink("Suscribete", "index_Suscribete", "suscribete")</a></li>
+
+        </ul>
+        <label id="icon">
+            <i class="fas fa-bars"></i>
+        </label>
+    </nav>
+
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

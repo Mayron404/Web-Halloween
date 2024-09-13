@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Plataforma_Peliculas_de_Halloween.Models.Cliente>
+
+@{
+    ViewBag.Title = "Index";
+}
+<hr />
+<h2 class="titulo_MantenimientoC">MANTENIMIENTO CLIENTES</h2>
+<body id="CRUD_Clientes">
+    <p class="btn btn-warning">
+        @Html.ActionLink("INGRESAR NUEVO CLIENTE", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                Cedula
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                Apellido 1
+            </th>
+            <th>
+                Apellido 2
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="cliente">
+                    @Html.DisplayFor(modelItem => item.idCedula)
+                </td>
+
+                <td class="cliente">
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td class="cliente">
+                    @Html.DisplayFor(modelItem => item.ap1)
+                </td>
+                <td class="cliente">
+                    @Html.DisplayFor(modelItem => item.ap2)
+                </td>
+                <td class="cliente">
+                    @Html.DisplayFor(modelItem => item.Telefono)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.idCedula }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.idCedula }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.idCedula })
+                </td>
+            </tr>
+        }
+
+    </table>
+    
+</body>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hr />

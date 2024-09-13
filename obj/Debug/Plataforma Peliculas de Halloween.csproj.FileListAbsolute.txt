@@ -1,0 +1,39 @@
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\Plataforma Peliculas de Halloween.dll.config
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\Plataforma Peliculas de Halloween.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\Plataforma Peliculas de Halloween.pdb
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\Antlr3.Runtime.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\Newtonsoft.Json.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.Helpers.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.Mvc.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.Optimization.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.Razor.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.WebPages.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.WebPages.Razor.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\WebGrease.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.Helpers.xml
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.Mvc.xml
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.Optimization.xml
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.Razor.xml
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.WebPages.xml
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\System.Web.WebPages.Razor.xml
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\Newtonsoft.Json.xml
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\Antlr3.Runtime.pdb
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\es\System.Web.Razor.resources.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\obj\Debug\Plataforma Peliculas de Halloween.csproj.AssemblyReference.cache
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\obj\Debug\Plataforma Peliculas de Halloween.csproj.CoreCompileInputs.cache
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\obj\Debug\Plataforma Peliculas de Halloween.csproj.CopyComplete
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\obj\Debug\Plataforma Peliculas de Halloween.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\obj\Debug\Plataforma Peliculas de Halloween.pdb
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\EntityFramework.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\EntityFramework.SqlServer.dll
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\EntityFramework.xml
+C:\Users\mayro\OneDrive\Escritorio\Proyecto lll Trimestre COVAO 2022\Proyecto Peliculas de Halloween\Pagina Peliculas de Halloween\bin\EntityFramework.SqlServer.xml

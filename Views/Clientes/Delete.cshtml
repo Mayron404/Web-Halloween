@@ -1,0 +1,95 @@
+﻿@model Plataforma_Peliculas_de_Halloween.Models.Cliente
+
+@{
+    ViewBag.Title = "Delete";
+}
+<body id="body_delete">
+    <hr />
+    <h2>BORRAR CLIENTE</h2>
+    <hr />
+    <br />
+    <br />
+
+    <div>
+
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.idCedula)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.idCedula)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Nombre)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ap1)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ap1)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ap2)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ap2)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Telefono)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-danger" /> |
+                <p class="btn btn-warning">
+                    @Html.ActionLink("Back to List", "Index")
+                </p>
+            </div>
+
+        }
+    </div>
+</body>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hr />
